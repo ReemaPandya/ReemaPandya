@@ -1,4 +1,4 @@
-# 👩‍💻 Reema Pandya
+<h1 align="center">Hi 👋, I'm Reema Pandya</h1>
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a knack for creating innovative solutions. Dive into my projects and explore the world of technology with me!
 
