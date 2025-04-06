@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 - **Description**: Engineered a comprehensive automated hydroponics cultivation and monitoring system.
 - **Technologies**: IoT, Automation
 
-![Hydroponic Farming](https://media.giphy.com/media/3o7aD6uXy3Wc5Lw8c0/giphy.gif)
+![Hydroponic Farming](https://cdn.shopify.com/s/files/1/0772/7077/8179/files/seeds_tutorial_4by3_smallest_600x600.gif?v=1709714126)
 
 ---
 
