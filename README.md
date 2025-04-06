@@ -89,8 +89,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 - **Description**: Engineered a comprehensive automated hydroponics cultivation and monitoring system.
 - **Technologies**: IoT, Automation
 
-![Hydroponic Farming](https://cdn.shopify.com/s/files/1/0772/7077/8179/files/seeds_tutorial_4by3_smallest_600x600.gif?v=1709714126)
-
 ---
 
 ### [IoT-based Hospital Bottle Indicator](https://github.com/ReemaPandya/iadocare)
@@ -98,24 +96,17 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 - **Award**: Best Idea Award by AIC-GISC in IDEATHON 2020
 - **Media Coverage**: Featured in [Times of India](https://timesofindia.indiatimes.com/city/surat/iot-based-saline-bottle-indicator-designed/articleshow/76948066.cms)
 
-
-![Hospital Bottle Indicator](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-
 ---
 
 ### [Movie Review Application](https://github.com/reemapandya/movie-review-app)
 - **Description**: Developed a movie review app using MongoDB, Python, and React.
 - **Features**: Multithreading, RESTful APIs
 
-![Movie Review App](https://media.giphy.com/media/3o7aD9d5D7z2a2Xj0k/giphy.gif)
-
 ---
 
 ### [Project Management App](https://github.com/reemapandya/project-management-app)
 - **Description**: Developed a project management application using ReactJS, GraphQL, and MongoDB.
 - **Features**: Real-time updates, Client management
-
-![Project Management App](https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif)
 
 ---
 
