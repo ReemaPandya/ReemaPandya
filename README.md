@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
   - BE in Computer Engineering, Gujarat Technological University (2017-2021)
 
 - 💼 **Experience**:
-  - Volunteer Software Engineer at Easley Dunn Productions Inc.
+  - Software Engineer at Easley Dunn Productions Inc.
   - Software Engineer at Tech Rhombus
   - Software Engineer Intern at Smarty Pants Technologies
 
