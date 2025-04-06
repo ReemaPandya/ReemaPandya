@@ -1,47 +1,71 @@
-# 👋 Hi, I'm Reema Pandya!
+# 👩‍💻 Reema Pandya
 
-Welcome to my GitHub profile! I'm a passionate software engineer skilled in React, Node.js, ASP.NET, and Flutter. I love building innovative solutions and tackling complex problems.
+Welcome to my GitHub profile! I'm a passionate software engineer with a knack for creating innovative solutions. Dive into my projects and explore the world of technology with me!
+
+---
+
+## 🌟 About Me
+
+- 🎓 **Education**: 
+  - MS in Computer Science, California State University, Long Beach (2023-2024)
+  - BE in Computer Engineering, Gujarat Technological University (2017-2021)
+
+- 💼 **Experience**:
+  - Volunteer Software Engineer at Easley Dunn Productions Inc.
+  - Software Engineer at Tech Rhombus
+  - Software Engineer Intern at Smarty Pants Technologies
+
+---
 
 ## 🚀 Projects
 
-### Safety Net
-A mobile application providing support and outreach using React Native and PostgreSQL.
-!Safety Net
+### [System and Method for Automation of Hydroponic Farming](https://github.com/reemapandya/hydroponic-farming)
+- **Description**: Engineered a comprehensive automated hydroponics cultivation and monitoring system.
+- **Technologies**: IoT, Automation
 
-### Inventory Management System
-Built with ASP.NET MVC and MySQL for enterprise needs.
-!Inventory Management System
-
-### Project Management App
-Developed using ReactJS, GraphQL, and MongoDB for real-time updates.
-!Project Management App
-
-## 🌱 Currently Learning
-Advanced system design and cloud computing.
-
-## 📫 Let's Connect
-- Email: reemapandya5786@gmail.com
-- LinkedIn: Reema Pandya
+![Hydroponic Farming](https://media.giphy.com/media/3o7aD6uXy3Wc5Lw8c0/giphy.gif)
 
 ---
 
-## 🛠️ Skills
-- **Languages**: C++, Java, Python, JavaScript, TypeScript, SQL
-- **Frameworks/Libraries**: React, Node.js, Express, ASP.NET, Flutter
-- **Databases**: MySQL, MongoDB, PostgreSQL, Firebase
+### [IoT-based Hospital Bottle Indicator](https://github.com/reemapandya/hospital-bottle-indicator)
+- **Description**: Designed an IV monitoring system using load cell sensors and ESP8266.
+- **Award**: Best Idea Award by AIC-GISC in IDEATHON 2020
+
+![Hospital Bottle Indicator](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
 ---
 
-## 🎨 Animations
+### [Movie Review Application](https://github.com/reemapandya/movie-review-app)
+- **Description**: Developed a movie review app using MongoDB, Python, and React.
+- **Features**: Multithreading, RESTful APIs
 
-```html
-<div style="text-align:center;">
-  <img src="https://via.placeholder.com/150" alt="Animation" style="animation: spin 4s linear infinite;">
-</div>
+![Movie Review App](https://media.giphy.com/media/3o7aD9d5D7z2a2Xj0k/giphy.gif)
 
-<style>
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
+---
+
+### [Project Management App](https://github.com/reemapandya/project-management-app)
+- **Description**: Developed a project management application using ReactJS, GraphQL, and MongoDB.
+- **Features**: Real-time updates, Client management
+
+![Project Management App](https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif)
+
+---
+
+## 🛠 Skills
+
+- **Languages**: C++, C, Java, Python, C#, SQL, JavaScript, HTML, CSS, TypeScript, Dart
+- **Databases**: Firebase, MySQL, MSSQL, MongoDB, Oracle, PostgreSQL
+- **Frameworks/Libraries**: Flutter, ASP.NET, React, NodeJS, Express, React Native, Spring Boot
+- **Tools/Technologies**: Git, Anaconda, VS, AWS, VS Code, SVN, Postman, JIRA, Trello, GitHub CI/CD, GraphQL, REST APIs, IoT
+
+---
+
+## 📫 Connect with Me
+
+- **Email**: [reemapandya5786@gmail.com](mailto:reemapandya5786@gmail.com)
+- **LinkedIn**: [Reema Pandya](https://www.linkedin.com/in/reemapandya)
+- **Twitter**: [@reemapandya](https://twitter.com/reemapandya)
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
