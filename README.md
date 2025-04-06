@@ -115,7 +115,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 - **Email**: [reemapandya5786@gmail.com](mailto:reemapandya5786@gmail.com)
 - **LinkedIn**: [Reema Pandya](https://www.linkedin.com/in/reemapandya)
-- **Twitter**: [@reemapandya](https://twitter.com/reemapandya)
 
 ---
 
