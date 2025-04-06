@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 ## 🚀 Projects
 
-### [System and Method for Automation of Hydroponic Farming](https://github.com/reemapandya/hydroponic-farming)
+### [System and Method for Automation of Hydroponic Farming](https://drive.google.com/file/d/12bWbnYeQnXdjy7QRXlOlz6mw5QWhsB95/view)
 - **Description**: Engineered a comprehensive automated hydroponics cultivation and monitoring system.
 - **Technologies**: IoT, Automation
 
