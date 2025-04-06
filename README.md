@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software engineer with a knack for creating innovative solutions. Dive into my projects and explore the world of technology with me!
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshilRana-git&label=Profile%20views&color=0e75b6&style=flat" alt="HarshilRana-git" /> </p>
 ## 🌟 About Me
 
 - 🎓 **Education**: 
