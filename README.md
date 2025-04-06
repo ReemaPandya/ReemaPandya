@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -82,7 +81,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 </td></tr></table>  
 
 <br/>  
----
+
+
 ## 🚀 Projects
 
 ### [System and Method for Automation of Hydroponic Farming](https://drive.google.com/file/d/12bWbnYeQnXdjy7QRXlOlz6mw5QWhsB95/view)
