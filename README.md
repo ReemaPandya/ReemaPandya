@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 ### [IoT-based Hospital Bottle Indicator](https://github.com/ReemaPandya/iadocare)
 - **Description**: Designed an IV monitoring system using load cell sensors and ESP8266.
 - **Award**: Best Idea Award by AIC-GISC in IDEATHON 2020
+- **Media Coverage**: Featured in [Times of India](https://timesofindia.indiatimes.com/city/surat/iot-based-saline-bottle-indicator-designed/articleshow/76948066.cms)
+
 
 ![Hospital Bottle Indicator](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
