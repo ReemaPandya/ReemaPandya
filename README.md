@@ -105,7 +105,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 ---
 
-### [Project Management App](https://github.com/reemapandya/project-management-app)
+### [Project Management App](https://github.com/reemapandya/project-mgmt-app)
 - **Description**: Developed a project management application using ReactJS, GraphQL, and MongoDB.
 - **Features**: Real-time updates, Client management
 
